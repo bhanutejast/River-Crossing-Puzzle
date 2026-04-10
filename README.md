@@ -98,6 +98,7 @@ Tkinter
 Math module
 
 No external libraries are required beyond Python’s standard library
+
 📜 Reference Solution Path
 
 The built-in solution path used by the program is:
@@ -111,6 +112,7 @@ Return Alone
 Take Goat
 
 This sequence is stored directly in the game engine and powers the hint and auto-solve functionality
+
 🚀 Future Improvements
 
 Possible future enhancements include:
